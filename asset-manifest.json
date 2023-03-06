@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/body-mass-index/static/css/main.e6c13ad2.css",
-    "main.js": "/body-mass-index/static/js/main.acbe642c.js",
-    "static/js/787.69b12325.chunk.js": "/body-mass-index/static/js/787.69b12325.chunk.js",
-    "static/media/devmemory_logo.png": "/body-mass-index/static/media/devmemory_logo.31aff21342d67831dfb3.png",
-    "static/media/b7.svg": "/body-mass-index/static/media/b7.051e421583d8e06969f321469bc31600.svg",
-    "static/media/android.svg": "/body-mass-index/static/media/android.dd86c47007e38bf4e4262d0dfc82b127.svg",
-    "static/media/moto.svg": "/body-mass-index/static/media/moto.db9cf75f439ba00114a5f7ab57b92faa.svg",
-    "static/media/disney.svg": "/body-mass-index/static/media/disney.f72fb22c0da7e22666f5bc530b4c1554.svg",
-    "static/media/gasolina.svg": "/body-mass-index/static/media/gasolina.2d02c9196bb589a3cec22dd990cbedc0.svg",
-    "static/media/caminhao.svg": "/body-mass-index/static/media/caminhao.45d98c2aa93d19dd5c811fbdf3172d16.svg",
-    "index.html": "/body-mass-index/index.html",
-    "static/media/restart.svg": "/body-mass-index/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
-    "static/media/estrela.svg": "/body-mass-index/static/media/estrela.16795fe557849fbe18d9a0b309e2eaa3.svg",
-    "main.e6c13ad2.css.map": "/body-mass-index/static/css/main.e6c13ad2.css.map",
-    "main.acbe642c.js.map": "/body-mass-index/static/js/main.acbe642c.js.map",
-    "787.69b12325.chunk.js.map": "/body-mass-index/static/js/787.69b12325.chunk.js.map"
+    "main.css": "/memory-game/static/css/main.e6c13ad2.css",
+    "main.js": "/memory-game/static/js/main.92efb574.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/devmemory_logo.png": "/memory-game/static/media/devmemory_logo.31aff21342d67831dfb3.png",
+    "static/media/b7.svg": "/memory-game/static/media/b7.051e421583d8e06969f321469bc31600.svg",
+    "static/media/android.svg": "/memory-game/static/media/android.dd86c47007e38bf4e4262d0dfc82b127.svg",
+    "static/media/moto.svg": "/memory-game/static/media/moto.db9cf75f439ba00114a5f7ab57b92faa.svg",
+    "static/media/disney.svg": "/memory-game/static/media/disney.f72fb22c0da7e22666f5bc530b4c1554.svg",
+    "static/media/gasolina.svg": "/memory-game/static/media/gasolina.2d02c9196bb589a3cec22dd990cbedc0.svg",
+    "static/media/caminhao.svg": "/memory-game/static/media/caminhao.45d98c2aa93d19dd5c811fbdf3172d16.svg",
+    "index.html": "/memory-game/index.html",
+    "static/media/restart.svg": "/memory-game/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
+    "static/media/estrela.svg": "/memory-game/static/media/estrela.16795fe557849fbe18d9a0b309e2eaa3.svg",
+    "main.e6c13ad2.css.map": "/memory-game/static/css/main.e6c13ad2.css.map",
+    "main.92efb574.js.map": "/memory-game/static/js/main.92efb574.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.acbe642c.js"
+    "static/js/main.92efb574.js"
   ]
 }
