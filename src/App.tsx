@@ -128,13 +128,13 @@ const App = () => {
 				</C.LogoLink>
 				<C.InfoArea>
 					<InfoItem
-						label="Tempo"
+						label="Time"
 						value={formatTimeElapsed(timeElapsed)}
 					/>
-					<InfoItem label="Movimentos" value={moveCount.toString()} />
+					<InfoItem label="Moves" value={moveCount.toString()} />
 				</C.InfoArea>
 				<Button
-					label="Reiniciar"
+					label="Restart"
 					icon={RestartIcon}
 					onClick={resetAndCreateGrid}
 				/>
