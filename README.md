@@ -6,8 +6,12 @@ Developed during B7Web Course
 
 ### Installation
 
--   `npm install`
+`npm install`
 
 ### Run
 
--   `npm start`
+`npm start`
+
+### Usage
+
+https://paulofarahalves.github.io/memory-game/
